@@ -13,5 +13,14 @@ public class Main {
 
         List2_12 pg4 = new List2_12();
         pg4.nameGreeting();
+
+        List2_15 pg5 = new List2_15();
+        pg5.piCalculate();
+
+        List2_17 pg6 = new List2_17();
+        pg6.randomSelect();
+
+        List3_1 pg7 = new List3_1();
+        pg7.integerValueJudgement();
     }
 }

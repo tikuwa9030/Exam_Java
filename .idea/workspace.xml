@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1d558bd-960a-4c03-8607-f044474a4313" name="変更" comment="新・明解Java入門のList2-9を作成">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List2_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List2_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List2_12.java" afterDir="false" />
+    <list default="true" id="e1d558bd-960a-4c03-8607-f044474a4313" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List2_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List2_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List3_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
@@ -30,6 +30,7 @@
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="tikuwa9030" />
+        <option value="桑澤　譲" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1731820421216</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新・明解Java入門のList2-10からList2_12を作成">
+      <created>1731834762131</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731834762131</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新・明解Java入門のList2-9を作成" />
-    <option name="LAST_COMMIT_MESSAGE" value="新・明解Java入門のList2-9を作成" />
+    <MESSAGE value="新・明解Java入門のList2-10からList2_12を作成" />
+    <option name="LAST_COMMIT_MESSAGE" value="新・明解Java入門のList2-10からList2_12を作成" />
   </component>
 </project>
