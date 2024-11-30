@@ -22,5 +22,15 @@ public class Main {
 
         List3_1 pg7 = new List3_1();
         pg7.integerValueJudgement();
+
+        List3_2 pg8 = new List3_2();
+        pg8.integerValueJudgement();
+
+        List3_3 pg9 = new List3_3();
+        pg9.twoValueEqual();
+
+        List3_4 pg10 = new List3_4();
+        pg10.zeroJudgement();
+
     }
 }
